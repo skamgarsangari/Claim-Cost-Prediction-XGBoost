@@ -1,4 +1,4 @@
-# Insurance_claim_values_prediction
+# Cost prediction of individual claims using XGBoost with sample weights.
 Develop a model to predict the cost of individual claims using XGBoost algorithm.
 
 To install these dependencies, run:
