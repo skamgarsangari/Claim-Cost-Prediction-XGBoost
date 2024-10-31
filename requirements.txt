@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+scikit-learn
+xgboost
+lightgbm
+tqdm
+pickle
